@@ -7,10 +7,10 @@ The goal of this course project is to prepare data for further analysis. The bas
 
 See: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-**This repository contains:**
-1. This README file, which will explain way the data collected and cleaned.
-2. A CodeBook, which describes the variables, the data, and how it has been transformed.
-3. The script for collecting and cleaning the data.
+**This repository contains:**  
+1. This README file, which will explain way the data collected and cleaned.  
+2. A CodeBook, which describes the variables, the data, and how it has been transformed.  
+3. The script for collecting and cleaning the data.  
 
 **Collecting and Cleaning the data**
 The run_analysis.R script does the folowing things to the data:
